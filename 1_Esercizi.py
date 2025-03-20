@@ -1,4 +1,4 @@
-#Non serve più adessso funziona anche il file Jupyter
+
 import numpy as np
 
 #1)
